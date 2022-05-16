@@ -1,11 +1,12 @@
-# covid_data_brazil
+# Dados sobre a COVID no Brasil
 
-Treatment of the information made available by the Ministry of Health of Brazil about covid pandemic, with the objective to obtain some metrics such as the moving average of cases and deaths and total number of deaths and cases for State. 
+Tratamento das informações fornecidas pelo Ministério da Saúde do Brasil acerca da pandemia de COVID, com o objetivo de obter algumas métricas, como a Média Móvel de Casos e de Mortes, além do número de Mortes e Casos por estado.
 
-This treatment is based on date selected by the user.
+O tratamento dos dados realizado se baseia na data selecionada pelo usuário em uma interface web.
 
-- For the application interface (dashboard) the Streamlit.io lib was used. 
-- For data processing the Pandas lib was used.
+- Para a implementação da interface (dashboard), utilizou-se a biblioteca [Streamlit.io. link](https://streamlit.io/)
+
+- Para o tratamento dos dados, utilizou-se a biblioteca Pandas.
 
  
 ![screencapture-localhost-8501-2022-01-21-10_55_58](https://user-images.githubusercontent.com/64854811/150539140-a8e3726e-9772-4f5e-b8d1-fd139411445d.png)
